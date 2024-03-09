@@ -1,12 +1,12 @@
 
-An extremely repository of all travel related documentation, links, templates and other resources.
+#Repository of all travel related documentation, links, templates and other resources.
 
-SCHENGEN VISA to ITALY
-Before you go
+##SCHENGEN VISA to ITALY
+###Before you go
   - Your passport should be valid for more than 3 months after the departure date from Italy
   - xxx
 
-Application form: https://e-applicationvisa.esteri.it/moduloOnline.html?L=en-GB#step-1
+###Application form: https://e-applicationvisa.esteri.it/moduloOnline.html?L=en-GB#step-1
   - Note that 
       - there is no provision for you to save progress on the application. So either you complete and download the application in one shot 
       or 
@@ -15,11 +15,11 @@ Application form: https://e-applicationvisa.esteri.it/moduloOnline.html?L=en-GB#
       - you can sign up with visaready and have your application saved automatically. 
       - More, you do not have to fill up your details everytime you start a new application for another visa or for your family members
 
-Appointment booking link: https://conslosangeles.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/book-an-appointment/
+###Appointment booking link: https://conslosangeles.esteri.it/en/servizi-consolari-e-visti/servizi-per-il-cittadino-straniero/visti/book-an-appointment/
 
-Visa application fees:
+###Visa application fees:
 
-Document to bring at the embassy for your appointment
+###Document to bring at the embassy for your appointment
   - Passport
   - Your residency document if appyling from outside of India
   - Your past 3 months of bank statement /pay slips
